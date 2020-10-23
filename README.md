@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Tammaro</h1>
-<h3 align="center">A passionate frontend developer from Argentina. Currently living in Barcelona, Spain.</h3>
+<h3 align="center">A passionate Frontend developer from Argentina. Currently living in Barcelona, Spain.</h3>
 
 - 🔭 I’m currently working on [Kantox](https://www.kantox.com/)
 
-- 🌱 I’m currently learning **Flutter, React Native & staring a bit with blockchain in my free time**
+- 🌱 I’m getting into the mobile world learning **Flutter and React Native** in my free time. 
 
 - 👨‍💻 Check my portfolio [https://ivantammaro.com](https://ivantammaro.com)
 
