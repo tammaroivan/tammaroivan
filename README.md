@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Tammaro</h1>
 <h3 align="center">A passionate Frontend developer from Argentina. Currently living in Barcelona, Spain.</h3>
 
-- 🔭 I’m currently working on [Kantox](https://www.kantox.com/)
+- 🔭 I’m currently working at [Kantox](https://www.kantox.com/)
 
 - 🌱 I’m getting into the mobile world learning **Flutter and React Native** in my free time. 
 
