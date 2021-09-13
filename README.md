@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Kantox](https://www.kantox.com/)
 
-- 🌱 I’m getting into the mobile world learning **Flutter and React Native** in my free time. 
+- 🌱 I’m really interested in Blockchain and Smart Contracts. Also getting into the mobile world learning **Flutter and React Native** in my free time. 
 
 - 👨‍💻 Check my portfolio [https://ivantammaro.com](https://ivantammaro.com)
 
