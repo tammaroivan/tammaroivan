@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend developer from Argentina. Currently living in Barcelona, Spain.</h3>
 
 ## Currently
-- 🔭 Working as Software Engineer at [Cascade](https://www.cascade.com/)
+- 🔭 Working as Software Engineer at [Cascade](https://www.cascade.app/)
 
 ## Previous
 - Frontend Engineer & Team Lead @ [Kantox](https://www.kantox.com/en/)
