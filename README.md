@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Tammaro</h1>
+<h1 align="center">Hi 👋 I'm Ivan Tammaro</h1>
 <h3 align="center">A passionate Frontend developer from Argentina. Currently living in Barcelona, Spain.</h3>
 
 ## Current
