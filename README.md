@@ -10,7 +10,7 @@
 - Web Developer @ [C-Team](http://c-team.com.ar)
 
 ##
-- 🌱 I’m really interested in the mobile world learning **Flutter and React Native** in my free time. 
+- 🌱 I’m interested in mobile development, I'm currenlty learning **Flutter and React Native** in my free time. Also, I'm learning game development in Godot and Unity Engine.
 
 - 👨‍💻 Check my portfolio [https://ivantammaro.com](https://ivantammaro.com)
 
