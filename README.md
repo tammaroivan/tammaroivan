@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Argentina. Currently living in Sydney, NSW, Australia.</h3>
 
 ## Current
-- 🔭 Working as Software Engineer at [Cascade](https://www.cascade.app/)
+- 🔭 Software Engineer @ [Cascade](https://www.cascade.app/)
 
 ## Previous
 - Frontend Engineer & Team Lead @ [Kantox](https://www.kantox.com/en/)
