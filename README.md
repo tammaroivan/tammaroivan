@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋 I'm Ivan Tammaro</h1>
-<h3 align="center">A passionate Software Engineer from Argentina. Currently living in Sydney, NSW, Australia.</h3>
+# Ivan Tammaro  
+**Senior Software Engineer — Sydney, Australia**
 
-## Current
-- 🔭 Software Engineer @ [Cascade](https://www.cascade.app/)
+Specializing in the React ecosystem, TypeScript, and scalable web applications.  
+Currently building [Cascade](https://www.cascade.app/).
 
-## Previous
-- Frontend Engineer & Team Lead @ [Kantox](https://www.kantox.com/en/)
-- Frontend Developer @ [Wolox](https://www.wolox.com.ar)
-- Web Developer @ [C-Team](http://c-team.com.ar)
+[ivantammaro.com](https://ivantammaro.com) • [tammaroivan@gmail.com](mailto:tammaroivan@gmail.com)
 
-##
-- 🌱 I’m interested in mobile development, I'm currenlty learning **Flutter and React Native** in my free time. Also, I'm learning game development in Godot and Unity Engine.
+## About me
 
-- 👨‍💻 Check my portfolio [https://ivantammaro.com](https://ivantammaro.com)
+- Full-time web engineer working with **TypeScript**, **React**, and **Node.js**
+- I also work with **React Native/Expo** for mobile development
+- Enjoy **game development in Godot**, **3D printing**, and **self-hosting** projects
+- Originally from Argentina, now based in Sydney
 
-- 📫 You can send me an email: **tammaroivan@gmail.com**
+## Experience
+
+- **Senior Software Engineer**, [Cascade](https://www.cascade.app/)
+- **Frontend Engineer & Team Lead**, [Kantox](https://www.kantox.com/en/)
+- **Frontend Developer**, [Wolox](https://www.wolox.com.ar)
+- **Web Developer**, [C-Team](http://c-team.com.ar)
